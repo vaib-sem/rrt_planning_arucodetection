@@ -1,0 +1,15 @@
+/Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/ament_index/resource_index/package_run_dependencies/client_arucotag
+/Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/ament_index/resource_index/parent_prefix_path/client_arucotag
+/Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/environment/ament_prefix_path.sh
+/Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/environment/ament_prefix_path.dsv
+/Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/environment/path.sh
+/Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/environment/path.dsv
+/Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/local_setup.bash
+/Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/local_setup.sh
+/Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/local_setup.zsh
+/Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/local_setup.dsv
+/Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/package.dsv
+/Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/ament_index/resource_index/packages/client_arucotag
+/Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/cmake/client_arucotagConfig.cmake
+/Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/cmake/client_arucotagConfig-version.cmake
+/Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/package.xml

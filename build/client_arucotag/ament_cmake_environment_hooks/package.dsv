@@ -1,0 +1,4 @@
+source;share/client_arucotag/local_setup.bash
+source;share/client_arucotag/local_setup.dsv
+source;share/client_arucotag/local_setup.sh
+source;share/client_arucotag/local_setup.zsh
