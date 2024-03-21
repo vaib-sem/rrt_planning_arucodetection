@@ -1,0 +1,121 @@
+[0.000000] (-) TimerEvent: {}
+[0.000085] (client_arucotag) JobQueued: {'identifier': 'client_arucotag', 'dependencies': OrderedDict()}
+[0.000211] (client_arucotag) JobStarted: {'identifier': 'client_arucotag'}
+[0.033961] (client_arucotag) JobProgress: {'identifier': 'client_arucotag', 'progress': 'cmake'}
+[0.034252] (client_arucotag) Command: {'cmd': ['/Users/vaibhavsemwal/miniforge3/envs/ros_env/bin/cmake', '/Users/vaibhavsemwal/ass4_ws/src/client_arucotag', '-DCMAKE_INSTALL_PREFIX=/Users/vaibhavsemwal/ass4_ws/install/client_arucotag'], 'cwd': '/Users/vaibhavsemwal/ass4_ws/build/client_arucotag', 'env': OrderedDict([('MANPATH', '/opt/homebrew/share/man::'), ('TERM_PROGRAM', 'Apple_Terminal'), ('PROJ_DATA', '/Users/vaibhavsemwal/miniforge3/envs/ros_env/share/proj'), ('SHELL', '/bin/zsh'), ('TERM', 'xterm-256color'), ('HOMEBREW_REPOSITORY', '/opt/homebrew'), ('TMPDIR', '/var/folders/mw/6tllspws7b9_xqk3fx5cch1w0000gn/T/'), ('CONDA_SHLVL', '2'), ('CONDA_PROMPT_MODIFIER', '(ros_env)'), ('TERM_PROGRAM_VERSION', '452'), ('GSETTINGS_SCHEMA_DIR_CONDA_BACKUP', ''), ('ROS_PYTHON_VERSION', '3'), ('ROS_VERSION', '2'), ('TERM_SESSION_ID', '5625E151-2F6B-448F-AF42-18F4BB204D09'), ('AMENT_PREFIX_PATH', '/Users/vaibhavsemwal/miniforge3/envs/ros_env'), ('USER', 'vaibhavsemwal'), ('CONDA_EXE', '/Users/vaibhavsemwal/miniforge3/bin/conda'), ('SSH_AUTH_SOCK', '/private/tmp/com.apple.launchd.qnOMwqxVVo/Listeners'), ('__CF_USER_TEXT_ENCODING', '0x1F5:0x0:0x0'), ('ROS_OS_OVERRIDE', 'conda:osx'), ('_CE_CONDA', ''), ('CONDA_PREFIX_1', '/Users/vaibhavsemwal/miniforge3'), ('PATH', '/Users/vaibhavsemwal/miniforge3/envs/ros_env/bin:/Users/vaibhavsemwal/miniforge3/condabin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin'), ('PROJ_NETWORK', 'ON'), ('GSETTINGS_SCHEMA_DIR', '/Users/vaibhavsemwal/miniforge3/envs/ros_env/share/glib-2.0/schemas'), ('XML_CATALOG_FILES', 'file:///Users/vaibhavsemwal/miniforge3/envs/ros_env/etc/xml/catalog file:///etc/xml/catalog'), ('CONDA_PREFIX', '/Users/vaibhavsemwal/miniforge3/envs/ros_env'), ('__CFBundleIdentifier', 'com.apple.Terminal'), ('PWD', '/Users/vaibhavsemwal/ass4_ws/build/client_arucotag'), ('COLCON', '1'), ('JAVA_HOME', '/Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home'), ('RMW_IMPLEMENTATION', 'rmw_cyclonedds_cpp'), ('XPC_FLAGS', '0x0'), ('_CE_M', ''), ('XPC_SERVICE_NAME', '0'), ('OPENSSL_ROOT_DIR', '/opt/homebrew/opt/openssl@3'), ('SHLVL', '2'), ('HOME', '/Users/vaibhavsemwal'), ('ROS_DISTRO', 'humble'), ('HOMEBREW_PREFIX', '/opt/homebrew'), ('PYTHONPATH', '/Users/vaibhavsemwal/miniforge3/envs/ros_env/lib/python311/site-packages:/Users/vaibhavsemwal/miniforge3/envs/ros_env/lib/python3.11/site-packages'), ('CONDA_PYTHON_EXE', '/Users/vaibhavsemwal/miniforge3/bin/python'), ('LOGNAME', 'vaibhavsemwal'), ('LC_CTYPE', 'UTF-8'), ('CONDA_DEFAULT_ENV', 'ros_env'), ('INFOPATH', '/opt/homebrew/share/info:'), ('HOMEBREW_CELLAR', '/opt/homebrew/Cellar'), ('ROS_LOCALHOST_ONLY', '0'), ('ROS_ETC_DIR', '/Users/vaibhavsemwal/miniforge3/envs/ros_env/etc/ros'), ('_', '/usr/bin/env'), ('CMAKE_PREFIX_PATH', '/Users/vaibhavsemwal/miniforge3/envs/ros_env')]), 'shell': False}
+[0.104865] (-) TimerEvent: {}
+[0.210144] (-) TimerEvent: {}
+[0.315307] (-) TimerEvent: {}
+[0.420466] (-) TimerEvent: {}
+[0.525648] (-) TimerEvent: {}
+[0.630829] (-) TimerEvent: {}
+[0.735987] (-) TimerEvent: {}
+[0.841208] (-) TimerEvent: {}
+[0.946612] (-) TimerEvent: {}
+[1.051769] (-) TimerEvent: {}
+[1.156915] (-) TimerEvent: {}
+[1.262060] (-) TimerEvent: {}
+[1.367203] (-) TimerEvent: {}
+[1.472345] (-) TimerEvent: {}
+[1.577511] (-) TimerEvent: {}
+[1.682644] (-) TimerEvent: {}
+[1.787779] (-) TimerEvent: {}
+[1.892939] (-) TimerEvent: {}
+[1.998181] (-) TimerEvent: {}
+[2.103391] (-) TimerEvent: {}
+[2.205772] (-) TimerEvent: {}
+[2.311189] (-) TimerEvent: {}
+[2.413785] (-) TimerEvent: {}
+[2.519211] (-) TimerEvent: {}
+[2.622808] (-) TimerEvent: {}
+[2.723862] (-) TimerEvent: {}
+[2.829274] (-) TimerEvent: {}
+[2.930018] (-) TimerEvent: {}
+[3.034584] (-) TimerEvent: {}
+[3.139991] (-) TimerEvent: {}
+[3.245335] (-) TimerEvent: {}
+[3.350737] (-) TimerEvent: {}
+[3.456133] (-) TimerEvent: {}
+[3.561089] (-) TimerEvent: {}
+[3.666494] (-) TimerEvent: {}
+[3.772031] (-) TimerEvent: {}
+[3.873219] (-) TimerEvent: {}
+[3.978403] (-) TimerEvent: {}
+[4.083771] (-) TimerEvent: {}
+[4.188774] (-) TimerEvent: {}
+[4.293960] (-) TimerEvent: {}
+[4.398236] (-) TimerEvent: {}
+[4.503657] (-) TimerEvent: {}
+[4.607733] (-) TimerEvent: {}
+[4.713311] (-) TimerEvent: {}
+[4.818731] (-) TimerEvent: {}
+[4.924138] (-) TimerEvent: {}
+[5.027454] (-) TimerEvent: {}
+[5.132631] (-) TimerEvent: {}
+[5.233815] (-) TimerEvent: {}
+[5.335906] (-) TimerEvent: {}
+[5.344879] (client_arucotag) StdoutLine: {'line': b'-- The C compiler identification is AppleClang 15.0.0.15000100\n'}
+[5.415357] (client_arucotag) StdoutLine: {'line': b'-- The CXX compiler identification is AppleClang 15.0.0.15000100\n'}
+[5.440934] (-) TimerEvent: {}
+[5.441979] (client_arucotag) StdoutLine: {'line': b'-- Detecting C compiler ABI info\n'}
+[5.545970] (-) TimerEvent: {}
+[5.651112] (-) TimerEvent: {}
+[5.756296] (-) TimerEvent: {}
+[5.861463] (-) TimerEvent: {}
+[5.966605] (-) TimerEvent: {}
+[6.040463] (client_arucotag) StdoutLine: {'line': b'-- Detecting C compiler ABI info - done\n'}
+[6.043732] (client_arucotag) StdoutLine: {'line': b'-- Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc - skipped\n'}
+[6.044083] (client_arucotag) StdoutLine: {'line': b'-- Detecting C compile features\n'}
+[6.044499] (client_arucotag) StdoutLine: {'line': b'-- Detecting C compile features - done\n'}
+[6.065902] (client_arucotag) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info\n'}
+[6.066758] (-) TimerEvent: {}
+[6.171884] (-) TimerEvent: {}
+[6.205031] (client_arucotag) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info - done\n'}
+[6.208502] (client_arucotag) StdoutLine: {'line': b'-- Check for working CXX compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ - skipped\n'}
+[6.208716] (client_arucotag) StdoutLine: {'line': b'-- Detecting CXX compile features\n'}
+[6.209099] (client_arucotag) StdoutLine: {'line': b'-- Detecting CXX compile features - done\n'}
+[6.225025] (client_arucotag) StdoutLine: {'line': b'-- Found ament_cmake: 1.3.7 (/Users/vaibhavsemwal/miniforge3/envs/ros_env/share/ament_cmake/cmake)\n'}
+[6.276903] (-) TimerEvent: {}
+[6.382039] (-) TimerEvent: {}
+[6.487172] (-) TimerEvent: {}
+[6.592305] (-) TimerEvent: {}
+[6.697439] (-) TimerEvent: {}
+[6.793386] (client_arucotag) StdoutLine: {'line': b'-- Found Python3: /opt/homebrew/Frameworks/Python.framework/Versions/3.12/bin/python3.12 (found version "3.12.2") found components: Interpreter \n'}
+[6.798465] (-) TimerEvent: {}
+[6.903623] (-) TimerEvent: {}
+[7.008792] (-) TimerEvent: {}
+[7.113987] (-) TimerEvent: {}
+[7.134255] (client_arucotag) StdoutLine: {'line': b'-- Found ament_lint_auto: 0.12.10 (/Users/vaibhavsemwal/miniforge3/envs/ros_env/share/ament_lint_auto/cmake)\n'}
+[7.219029] (-) TimerEvent: {}
+[7.288976] (client_arucotag) StdoutLine: {'line': b"-- Added test 'lint_cmake' to check CMake code style\n"}
+[7.290825] (client_arucotag) StdoutLine: {'line': b"-- Added test 'xmllint' to check XML markup files\n"}
+[7.292749] (client_arucotag) StdoutLine: {'line': b'-- Configuring done (6.9s)\n'}
+[7.303880] (client_arucotag) StdoutLine: {'line': b'-- Generating done (0.0s)\n'}
+[7.306276] (client_arucotag) StdoutLine: {'line': b'-- Build files have been written to: /Users/vaibhavsemwal/ass4_ws/build/client_arucotag\n'}
+[7.308542] (client_arucotag) CommandEnded: {'returncode': 0}
+[7.309001] (client_arucotag) JobProgress: {'identifier': 'client_arucotag', 'progress': 'build'}
+[7.309434] (client_arucotag) Command: {'cmd': ['/Users/vaibhavsemwal/miniforge3/envs/ros_env/bin/cmake', '--build', '/Users/vaibhavsemwal/ass4_ws/build/client_arucotag', '--', '-j8', '-l8'], 'cwd': '/Users/vaibhavsemwal/ass4_ws/build/client_arucotag', 'env': OrderedDict([('MANPATH', '/opt/homebrew/share/man::'), ('TERM_PROGRAM', 'Apple_Terminal'), ('PROJ_DATA', '/Users/vaibhavsemwal/miniforge3/envs/ros_env/share/proj'), ('SHELL', '/bin/zsh'), ('TERM', 'xterm-256color'), ('HOMEBREW_REPOSITORY', '/opt/homebrew'), ('TMPDIR', '/var/folders/mw/6tllspws7b9_xqk3fx5cch1w0000gn/T/'), ('CONDA_SHLVL', '2'), ('CONDA_PROMPT_MODIFIER', '(ros_env)'), ('TERM_PROGRAM_VERSION', '452'), ('GSETTINGS_SCHEMA_DIR_CONDA_BACKUP', ''), ('ROS_PYTHON_VERSION', '3'), ('ROS_VERSION', '2'), ('TERM_SESSION_ID', '5625E151-2F6B-448F-AF42-18F4BB204D09'), ('AMENT_PREFIX_PATH', '/Users/vaibhavsemwal/miniforge3/envs/ros_env'), ('USER', 'vaibhavsemwal'), ('CONDA_EXE', '/Users/vaibhavsemwal/miniforge3/bin/conda'), ('SSH_AUTH_SOCK', '/private/tmp/com.apple.launchd.qnOMwqxVVo/Listeners'), ('__CF_USER_TEXT_ENCODING', '0x1F5:0x0:0x0'), ('ROS_OS_OVERRIDE', 'conda:osx'), ('_CE_CONDA', ''), ('CONDA_PREFIX_1', '/Users/vaibhavsemwal/miniforge3'), ('PATH', '/Users/vaibhavsemwal/miniforge3/envs/ros_env/bin:/Users/vaibhavsemwal/miniforge3/condabin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin'), ('PROJ_NETWORK', 'ON'), ('GSETTINGS_SCHEMA_DIR', '/Users/vaibhavsemwal/miniforge3/envs/ros_env/share/glib-2.0/schemas'), ('XML_CATALOG_FILES', 'file:///Users/vaibhavsemwal/miniforge3/envs/ros_env/etc/xml/catalog file:///etc/xml/catalog'), ('CONDA_PREFIX', '/Users/vaibhavsemwal/miniforge3/envs/ros_env'), ('__CFBundleIdentifier', 'com.apple.Terminal'), ('PWD', '/Users/vaibhavsemwal/ass4_ws/build/client_arucotag'), ('COLCON', '1'), ('JAVA_HOME', '/Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home'), ('RMW_IMPLEMENTATION', 'rmw_cyclonedds_cpp'), ('XPC_FLAGS', '0x0'), ('_CE_M', ''), ('XPC_SERVICE_NAME', '0'), ('OPENSSL_ROOT_DIR', '/opt/homebrew/opt/openssl@3'), ('SHLVL', '2'), ('HOME', '/Users/vaibhavsemwal'), ('ROS_DISTRO', 'humble'), ('HOMEBREW_PREFIX', '/opt/homebrew'), ('PYTHONPATH', '/Users/vaibhavsemwal/miniforge3/envs/ros_env/lib/python311/site-packages:/Users/vaibhavsemwal/miniforge3/envs/ros_env/lib/python3.11/site-packages'), ('CONDA_PYTHON_EXE', '/Users/vaibhavsemwal/miniforge3/bin/python'), ('LOGNAME', 'vaibhavsemwal'), ('LC_CTYPE', 'UTF-8'), ('CONDA_DEFAULT_ENV', 'ros_env'), ('INFOPATH', '/opt/homebrew/share/info:'), ('HOMEBREW_CELLAR', '/opt/homebrew/Cellar'), ('ROS_LOCALHOST_ONLY', '0'), ('ROS_ETC_DIR', '/Users/vaibhavsemwal/miniforge3/envs/ros_env/etc/ros'), ('_', '/usr/bin/env'), ('CMAKE_PREFIX_PATH', '/Users/vaibhavsemwal/miniforge3/envs/ros_env')]), 'shell': False}
+[7.321077] (-) TimerEvent: {}
+[7.357559] (client_arucotag) CommandEnded: {'returncode': 0}
+[7.398871] (client_arucotag) JobProgress: {'identifier': 'client_arucotag', 'progress': 'install'}
+[7.411121] (client_arucotag) Command: {'cmd': ['/Users/vaibhavsemwal/miniforge3/envs/ros_env/bin/cmake', '--install', '/Users/vaibhavsemwal/ass4_ws/build/client_arucotag'], 'cwd': '/Users/vaibhavsemwal/ass4_ws/build/client_arucotag', 'env': OrderedDict([('MANPATH', '/opt/homebrew/share/man::'), ('TERM_PROGRAM', 'Apple_Terminal'), ('PROJ_DATA', '/Users/vaibhavsemwal/miniforge3/envs/ros_env/share/proj'), ('SHELL', '/bin/zsh'), ('TERM', 'xterm-256color'), ('HOMEBREW_REPOSITORY', '/opt/homebrew'), ('TMPDIR', '/var/folders/mw/6tllspws7b9_xqk3fx5cch1w0000gn/T/'), ('CONDA_SHLVL', '2'), ('CONDA_PROMPT_MODIFIER', '(ros_env)'), ('TERM_PROGRAM_VERSION', '452'), ('GSETTINGS_SCHEMA_DIR_CONDA_BACKUP', ''), ('ROS_PYTHON_VERSION', '3'), ('ROS_VERSION', '2'), ('TERM_SESSION_ID', '5625E151-2F6B-448F-AF42-18F4BB204D09'), ('AMENT_PREFIX_PATH', '/Users/vaibhavsemwal/miniforge3/envs/ros_env'), ('USER', 'vaibhavsemwal'), ('CONDA_EXE', '/Users/vaibhavsemwal/miniforge3/bin/conda'), ('SSH_AUTH_SOCK', '/private/tmp/com.apple.launchd.qnOMwqxVVo/Listeners'), ('__CF_USER_TEXT_ENCODING', '0x1F5:0x0:0x0'), ('ROS_OS_OVERRIDE', 'conda:osx'), ('_CE_CONDA', ''), ('CONDA_PREFIX_1', '/Users/vaibhavsemwal/miniforge3'), ('PATH', '/Users/vaibhavsemwal/miniforge3/envs/ros_env/bin:/Users/vaibhavsemwal/miniforge3/condabin:/opt/homebrew/bin:/opt/homebrew/sbin:/usr/local/bin:/System/Cryptexes/App/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/local/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/bin:/var/run/com.apple.security.cryptexd/codex.system/bootstrap/usr/appleinternal/bin:/Library/Apple/usr/bin'), ('PROJ_NETWORK', 'ON'), ('GSETTINGS_SCHEMA_DIR', '/Users/vaibhavsemwal/miniforge3/envs/ros_env/share/glib-2.0/schemas'), ('XML_CATALOG_FILES', 'file:///Users/vaibhavsemwal/miniforge3/envs/ros_env/etc/xml/catalog file:///etc/xml/catalog'), ('CONDA_PREFIX', '/Users/vaibhavsemwal/miniforge3/envs/ros_env'), ('__CFBundleIdentifier', 'com.apple.Terminal'), ('PWD', '/Users/vaibhavsemwal/ass4_ws/build/client_arucotag'), ('COLCON', '1'), ('JAVA_HOME', '/Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home'), ('RMW_IMPLEMENTATION', 'rmw_cyclonedds_cpp'), ('XPC_FLAGS', '0x0'), ('_CE_M', ''), ('XPC_SERVICE_NAME', '0'), ('OPENSSL_ROOT_DIR', '/opt/homebrew/opt/openssl@3'), ('SHLVL', '2'), ('HOME', '/Users/vaibhavsemwal'), ('ROS_DISTRO', 'humble'), ('HOMEBREW_PREFIX', '/opt/homebrew'), ('PYTHONPATH', '/Users/vaibhavsemwal/miniforge3/envs/ros_env/lib/python311/site-packages:/Users/vaibhavsemwal/miniforge3/envs/ros_env/lib/python3.11/site-packages'), ('CONDA_PYTHON_EXE', '/Users/vaibhavsemwal/miniforge3/bin/python'), ('LOGNAME', 'vaibhavsemwal'), ('LC_CTYPE', 'UTF-8'), ('CONDA_DEFAULT_ENV', 'ros_env'), ('INFOPATH', '/opt/homebrew/share/info:'), ('HOMEBREW_CELLAR', '/opt/homebrew/Cellar'), ('ROS_LOCALHOST_ONLY', '0'), ('ROS_ETC_DIR', '/Users/vaibhavsemwal/miniforge3/envs/ros_env/etc/ros'), ('_', '/usr/bin/env'), ('CMAKE_PREFIX_PATH', '/Users/vaibhavsemwal/miniforge3/envs/ros_env')]), 'shell': False}
+[7.421579] (-) TimerEvent: {}
+[7.421755] (client_arucotag) StdoutLine: {'line': b'-- Install configuration: ""\n'}
+[7.421899] (client_arucotag) StdoutLine: {'line': b'-- Installing: /Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/ament_index/resource_index/package_run_dependencies/client_arucotag\n'}
+[7.422023] (client_arucotag) StdoutLine: {'line': b'-- Installing: /Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/ament_index/resource_index/parent_prefix_path/client_arucotag\n'}
+[7.422238] (client_arucotag) StdoutLine: {'line': b'-- Installing: /Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/environment/ament_prefix_path.sh\n'}
+[7.422401] (client_arucotag) StdoutLine: {'line': b'-- Installing: /Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/environment/ament_prefix_path.dsv\n'}
+[7.422578] (client_arucotag) StdoutLine: {'line': b'-- Installing: /Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/environment/path.sh\n'}
+[7.422735] (client_arucotag) StdoutLine: {'line': b'-- Installing: /Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/environment/path.dsv\n'}
+[7.422877] (client_arucotag) StdoutLine: {'line': b'-- Installing: /Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/local_setup.bash\n'}
+[7.423031] (client_arucotag) StdoutLine: {'line': b'-- Installing: /Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/local_setup.sh\n'}
+[7.423172] (client_arucotag) StdoutLine: {'line': b'-- Installing: /Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/local_setup.zsh\n'}
+[7.423320] (client_arucotag) StdoutLine: {'line': b'-- Installing: /Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/local_setup.dsv\n'}
+[7.423456] (client_arucotag) StdoutLine: {'line': b'-- Installing: /Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/package.dsv\n'}
+[7.423620] (client_arucotag) StdoutLine: {'line': b'-- Installing: /Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/ament_index/resource_index/packages/client_arucotag\n'}
+[7.423793] (client_arucotag) StdoutLine: {'line': b'-- Installing: /Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/cmake/client_arucotagConfig.cmake\n'}
+[7.423925] (client_arucotag) StdoutLine: {'line': b'-- Installing: /Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/cmake/client_arucotagConfig-version.cmake\n'}
+[7.424063] (client_arucotag) StdoutLine: {'line': b'-- Installing: /Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/package.xml\n'}
+[7.425216] (client_arucotag) CommandEnded: {'returncode': 0}
+[7.517413] (client_arucotag) JobEnded: {'identifier': 'client_arucotag', 'rc': 0}
+[7.517866] (-) EventReactorShutdown: {}

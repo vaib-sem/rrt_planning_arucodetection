@@ -1,0 +1,42 @@
+[0.036s] Invoking command in '/Users/vaibhavsemwal/ass4_ws/build/client_arucotag': CMAKE_PREFIX_PATH=/Users/vaibhavsemwal/miniforge3/envs/ros_env CONDA_PROMPT_MODIFIER=(ros_env) SHLVL=2 _=/usr/bin/env __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0 /Users/vaibhavsemwal/miniforge3/envs/ros_env/bin/cmake /Users/vaibhavsemwal/ass4_ws/src/client_arucotag -DCMAKE_INSTALL_PREFIX=/Users/vaibhavsemwal/ass4_ws/install/client_arucotag
+[5.345s] -- The C compiler identification is AppleClang 15.0.0.15000100
+[5.415s] -- The CXX compiler identification is AppleClang 15.0.0.15000100
+[5.442s] -- Detecting C compiler ABI info
+[6.040s] -- Detecting C compiler ABI info - done
+[6.044s] -- Check for working C compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc - skipped
+[6.044s] -- Detecting C compile features
+[6.044s] -- Detecting C compile features - done
+[6.066s] -- Detecting CXX compiler ABI info
+[6.205s] -- Detecting CXX compiler ABI info - done
+[6.208s] -- Check for working CXX compiler: /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ - skipped
+[6.209s] -- Detecting CXX compile features
+[6.209s] -- Detecting CXX compile features - done
+[6.225s] -- Found ament_cmake: 1.3.7 (/Users/vaibhavsemwal/miniforge3/envs/ros_env/share/ament_cmake/cmake)
+[6.793s] -- Found Python3: /opt/homebrew/Frameworks/Python.framework/Versions/3.12/bin/python3.12 (found version "3.12.2") found components: Interpreter 
+[7.134s] -- Found ament_lint_auto: 0.12.10 (/Users/vaibhavsemwal/miniforge3/envs/ros_env/share/ament_lint_auto/cmake)
+[7.289s] -- Added test 'lint_cmake' to check CMake code style
+[7.291s] -- Added test 'xmllint' to check XML markup files
+[7.293s] -- Configuring done (6.9s)
+[7.304s] -- Generating done (0.0s)
+[7.306s] -- Build files have been written to: /Users/vaibhavsemwal/ass4_ws/build/client_arucotag
+[7.308s] Invoked command in '/Users/vaibhavsemwal/ass4_ws/build/client_arucotag' returned '0': CMAKE_PREFIX_PATH=/Users/vaibhavsemwal/miniforge3/envs/ros_env CONDA_PROMPT_MODIFIER=(ros_env) SHLVL=2 _=/usr/bin/env __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0 /Users/vaibhavsemwal/miniforge3/envs/ros_env/bin/cmake /Users/vaibhavsemwal/ass4_ws/src/client_arucotag -DCMAKE_INSTALL_PREFIX=/Users/vaibhavsemwal/ass4_ws/install/client_arucotag
+[7.310s] Invoking command in '/Users/vaibhavsemwal/ass4_ws/build/client_arucotag': CMAKE_PREFIX_PATH=/Users/vaibhavsemwal/miniforge3/envs/ros_env CONDA_PROMPT_MODIFIER=(ros_env) SHLVL=2 _=/usr/bin/env __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0 /Users/vaibhavsemwal/miniforge3/envs/ros_env/bin/cmake --build /Users/vaibhavsemwal/ass4_ws/build/client_arucotag -- -j8 -l8
+[7.357s] Invoked command in '/Users/vaibhavsemwal/ass4_ws/build/client_arucotag' returned '0': CMAKE_PREFIX_PATH=/Users/vaibhavsemwal/miniforge3/envs/ros_env CONDA_PROMPT_MODIFIER=(ros_env) SHLVL=2 _=/usr/bin/env __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0 /Users/vaibhavsemwal/miniforge3/envs/ros_env/bin/cmake --build /Users/vaibhavsemwal/ass4_ws/build/client_arucotag -- -j8 -l8
+[7.411s] Invoking command in '/Users/vaibhavsemwal/ass4_ws/build/client_arucotag': CMAKE_PREFIX_PATH=/Users/vaibhavsemwal/miniforge3/envs/ros_env CONDA_PROMPT_MODIFIER=(ros_env) SHLVL=2 _=/usr/bin/env __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0 /Users/vaibhavsemwal/miniforge3/envs/ros_env/bin/cmake --install /Users/vaibhavsemwal/ass4_ws/build/client_arucotag
+[7.422s] -- Install configuration: ""
+[7.422s] -- Installing: /Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/ament_index/resource_index/package_run_dependencies/client_arucotag
+[7.422s] -- Installing: /Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/ament_index/resource_index/parent_prefix_path/client_arucotag
+[7.422s] -- Installing: /Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/environment/ament_prefix_path.sh
+[7.422s] -- Installing: /Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/environment/ament_prefix_path.dsv
+[7.422s] -- Installing: /Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/environment/path.sh
+[7.423s] -- Installing: /Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/environment/path.dsv
+[7.423s] -- Installing: /Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/local_setup.bash
+[7.423s] -- Installing: /Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/local_setup.sh
+[7.423s] -- Installing: /Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/local_setup.zsh
+[7.423s] -- Installing: /Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/local_setup.dsv
+[7.423s] -- Installing: /Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/package.dsv
+[7.423s] -- Installing: /Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/ament_index/resource_index/packages/client_arucotag
+[7.424s] -- Installing: /Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/cmake/client_arucotagConfig.cmake
+[7.424s] -- Installing: /Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/cmake/client_arucotagConfig-version.cmake
+[7.424s] -- Installing: /Users/vaibhavsemwal/ass4_ws/install/client_arucotag/share/client_arucotag/package.xml
+[7.425s] Invoked command in '/Users/vaibhavsemwal/ass4_ws/build/client_arucotag' returned '0': CMAKE_PREFIX_PATH=/Users/vaibhavsemwal/miniforge3/envs/ros_env CONDA_PROMPT_MODIFIER=(ros_env) SHLVL=2 _=/usr/bin/env __CF_USER_TEXT_ENCODING=0x1F5:0x0:0x0 /Users/vaibhavsemwal/miniforge3/envs/ros_env/bin/cmake --install /Users/vaibhavsemwal/ass4_ws/build/client_arucotag
